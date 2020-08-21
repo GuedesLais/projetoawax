@@ -1,2 +1,2 @@
 # projetoawax
-Projeto completo awax feito em aula
+Site completo feito em aula com HTML5 e CSS3
